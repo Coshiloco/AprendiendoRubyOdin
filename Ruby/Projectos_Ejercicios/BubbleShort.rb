@@ -1,4 +1,4 @@
-matriz = [7, 3, 5, 6]
+matriz = [4,3,78,2,0,2]
 
 def bubble_sort(matriz)
     n = matriz.length
